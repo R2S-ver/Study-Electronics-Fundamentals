@@ -22,6 +22,6 @@ The images used in this repository are for educational and self-study purposes o
 ----------------------------
 ## Electrical safety 电气安全
 
-## Voltage and current
+## Voltage and current 电压和电流
 
-## Basic electrical components
+## Basic electrical components 基础电子元器件
