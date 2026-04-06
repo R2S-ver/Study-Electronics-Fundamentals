@@ -9,9 +9,7 @@ To better internalize these concepts and understand their practical applications
 
 The images used in this repository are for educational and self-study purposes only. If you are the copyright owner of any image used here and would like it removed, please contact me.
 
-# Content
-
-**Table of Contents**
+# **Table of Contents**
 - [Electrical safety](#electrical-safety)
 - [Voltage and current](#voltage-and-current)
 - [Basic electrical components](#basic-electrical-components)
