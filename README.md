@@ -7,15 +7,16 @@
 
 本图库中使用的图片仅供教育和自学用途。如果您是此处使用的任何图片的版权所有者，并希望将其删除，请与我联系。
 
-**Table of Contents / 目录**
-- [Electrical safety / 电气安全](#electrical-safety)
-- [Voltage and current / 电压和电流](#voltage-and-current)
-- [Basic electrical components / 基础电子元器件](#basic-electrical-components)
+
+**目录**
+- [电气安全](#电气安全)
+- [电压和电流](#电压和电流)
+- [基础电子元器件](#基础电子元器件)
 ----------------------------
-## Electrical safety 电气安全
+## 电气安全
 
-## Voltage and current 电压和电流
+## 电压和电流
 
-## Basic electrical components 基础电子元器件
+## 基础电子元器件
 sss
 ssss test
