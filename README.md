@@ -20,4 +20,4 @@ The images used in this repository are for educational and self-study purposes o
 
 ## Basic electrical components
 sss
-ssss test
+stest
