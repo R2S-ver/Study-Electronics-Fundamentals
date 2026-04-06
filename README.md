@@ -1,3 +1,4 @@
+<div align="center">
 Other language: [中文版本](https://github.com/R2S-ver/Study-Electronics-Fundamentals/blob/Chinese/README.md)
 
 Welcome to my learning repository! 
