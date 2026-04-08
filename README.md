@@ -21,6 +21,7 @@ The images used in this repository are for educational and self-study purposes o
 - [Basic electrical components](#basic-electrical-components)
 ----------------------------
 ## Electrical safety
+> **⚠️ Note on Regional Standards:** The electrical safety analysis and examples documented here are based on my local usage scenario in **Rotterdam, the Netherlands (Europe)**. Voltage standards, electrical panel structures, protective mechanisms, and safety regulations (like NEN 1010) vary significantly by country. Please be aware of your local regulations when working with electricity.
 Description
 ### 
 
