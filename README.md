@@ -23,8 +23,19 @@ To better internalize these concepts and understand their practical applications
 ## Electrical safety
 > **⚠️ Note on Regional Standards:** The electrical safety analysis and examples documented here are based on my local usage scenario in **The Netherlands (Europe)**. Voltage standards, electrical panel structures, protective mechanisms, and safety regulations (like NEN 1010) vary significantly by country. Please be aware of your local regulations when working with electricity.
 
-### Description
+### 1. Introduction & Project Scope
+This section focuses on electrical safety at home, specifically in my personal workspace (my room) and the equipment used within it. 
+**Goals of this study:**
+- Systematically map the power distribution structure and usage patterns.
+- Identify potential safety risks.
+- Identify the main energy-consuming devices.
+- Design safe, reliable, and feasible solutions for energy savings.
 
+
+
+
+
+----------------------------
 ## Voltage and current
 
 ## Basic electrical components
