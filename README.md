@@ -12,7 +12,7 @@ Currently, this repository focuses on **hardware fundamentals** and **analog ele
 
 To better internalize these concepts and understand their practical applications, I have included real-world examples and case studies for each component. This "theory + application" approach helps me review more effectively and bridges the gap between textbook knowledge and actual engineering practice.
 
-The images used in this repository are for educational and self-study purposes only. If you are the copyright owner of any image used here and would like it removed, please contact me.
+*The images used in this repository are for educational and self-study purposes only. If you are the copyright owner of any image used here and would like it removed, please contact me.*
 </div>
 
 # **Table of Contents**
@@ -21,9 +21,9 @@ The images used in this repository are for educational and self-study purposes o
 - [Basic electrical components](#basic-electrical-components)
 ----------------------------
 ## Electrical safety
-> **⚠️ Note on Regional Standards:** The electrical safety analysis and examples documented here are based on my local usage scenario in **Rotterdam, the Netherlands (Europe)**. Voltage standards, electrical panel structures, protective mechanisms, and safety regulations (like NEN 1010) vary significantly by country. Please be aware of your local regulations when working with electricity.
-Description
-### 
+> **⚠️ Note on Regional Standards:** The electrical safety analysis and examples documented here are based on my local usage scenario in **The Netherlands (Europe)**. Voltage standards, electrical panel structures, protective mechanisms, and safety regulations (like NEN 1010) vary significantly by country. Please be aware of your local regulations when working with electricity.
+
+### Description
 
 ## Voltage and current
 
