@@ -89,6 +89,21 @@ Extra caution is required in damp or wet environments.
 * **Poor Contacts:** High contact resistance causes heat.
 * **Limited Heat Dissipation:** Especially dangerous when using coiled cable reels (always unroll them completely to prevent overheating).
 * **Lack of Surge Protection:** Vulnerability to voltage spikes (Overspanningsbeveiliging).
+
+### References
+1. https://saelektroexperts.nl/meterkast-problemen/hoe-werkt-de-aansluiting-van-een-meterkast-op-de-hoofdzekering/
+2. https://www.drixes-elektricien.nl/groepenkast/overzicht
+3. https://texasgateway.org/resource/68-electrical-safety-systems-and-devices
+4. https://www.mall99.co.ke/types-of-electrical-wires-and-cables/
+5. https://viox.com/cable-size-types-mm-awg-bs-conversion-guide/
+6. https://electronics.stackexchange.com/questions/688210/what-is-the-purpose-of-neutral-disconnect-in-a-circuit-breaker
+7. https://www.se.com/nl/nl/faqs/FA277439/
+8. https://mens-en-gezondheid.infonu.nl/leven/166505-veilig-elektriciteitsgebruik-en-eerste-hulp-bij-elektrocutie.html
+9. https://www.elektramat.nl/kennisbank/aderdikte/
+10. https://builder-calc.com/nl/elektronica/kabeldoorsnedecalculator-op-basis-van-vermogen-en-stroom-online-berekening.html
+11. https://mens-en-gezondheid.infonu.nl/leven/166505-veilig-elektriciteitsgebruik-en-eerste-hulp-bij-elektrocutie.html
+12. https://www.livios.be/nl/artikel/63803/elektriciteit-in-de-badkamer-wat-kan-en-wat-niet/
+13. https://www.vanlieshoutelektra.nl/nieuws/zo-voorkomt-u-overbelasting-op-tijdelijke-installaties/
 </details> <!-- 结束折叠内容 -->
 
 
