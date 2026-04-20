@@ -41,18 +41,18 @@ This section focuses on electrical safety at home, specifically in my personal w
 In Dutch homes, the distribution board (groepenkast) is located in the meter cupboard. The structure must comply with the **NEN 1010** safety regulations. 
 The power enters through the grid connection and passes through the following main safety components:
 
-* **Main Fuse & Main Switch (Hoofdschakelaar):** For total system shutdown.
-* **Residual Current Device (Aardlekschakelaar - 30mA):** Protects against electrocution by detecting leakage currents.
-* **Circuit Breakers (Installatieautomaten - typically 16A per group):** Distributes the installation into groups. Heavy consumers (like induction cooktops) get a separate 1-phase or 3-phase group with higher capacity and dedicated protection.
-* **Grounding (Aarding):** Provides a safe path for fault currents.
+* **Main Fuse & Main Switch:** For total system shutdown.
+* **Residual Current Device:** Protects against electrocution by detecting leakage currents.
+* **Circuit Breakers :** Distributes the installation into groups. Heavy consumers (like induction cooktops) get a separate 1-phase or 3-phase group with higher capacity and dedicated protection.
+* **Grounding:** Provides a safe path for fault currents.
 
 <img alt="2" src="https://github.com/R2S-ver/Study-Electronics-Fundamentals/blob/main/assets/images/2.png" width="512" height="512" /> <br>
-#### Circuit Breakers: 1P vs. 2P (Isolation)
+#### Circuit Breakers: 1P vs. 2P
 * **1P Breaker:** Interrupts the circuit, but the appliance remains connected to the grid via the neutral wire (N).
 * **2P / 1P+N Breaker:** Interrupts **both** conductors (Phase and Neutral). 
 * **Why is full isolation important?** With a 1P breaker, the neutral remains connected. In the event of a fault or incorrect wiring, the appliance could still carry voltage. A 2P breaker ensures complete electrical isolation and a safer shutdown.
 
-#### Trip Characteristics (Uitschakelkarakteristieken)
+#### Trip Characteristics
 Circuit breakers protect against overload and short circuits by automatically switching off. The trip characteristic determines how fast the breaker reacts to a current spike (e.g., when turning on a device).
 * Common types: **B, C, D, K, Z, and MA**.
 * The difference lies in the current value at which the breaker trips magnetically, expressed as a multiple of the nominal current (In). (e.g., C-curves are better for devices with higher inrush currents).
@@ -69,14 +69,14 @@ The diameter (cross-section) of a cable determines the maximum current it can sa
 5.  **Cable Density:** Number of cables packed together in a conduit (heat buildup).
 6.  **Short-circuit Current:** Ability to withstand heat during a short circuit.
 
-#### B. Cord Defects (Snoer defecten)
+#### B. Cord Defects
 A damaged cable can lead to short circuits, electric shocks, or fire.
 * Damage to the outer jacket.
 * Color changes due to overheating.
 * Excessive bending or pinching.
 * Aging/brittle insulation material.
 
-#### C. Operating Environment (Gebruiksomgeving)
+#### C. Operating Environment
 Extra caution is required in damp or wet environments.
 * Is the device properly grounded?
 * Does the IP rating meet the standard for the area?
