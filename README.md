@@ -141,6 +141,7 @@ To mitigate the risks identified in my research, I have implemented a physical s
 [Back to the Table of Contents](#Table-of-Contents)
 </details> <!-- 结束折叠内容 -->
 ----------------------------
+
 ## Voltage and current
 
 ## Basic electrical components
