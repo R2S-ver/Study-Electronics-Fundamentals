@@ -16,7 +16,7 @@ To better internalize these concepts and understand their practical applications
 </div>
 
 # **Table of Contents**
-- [Electrical safety](#electrical-safety)
+- [Electrical safety at home](#electrical-safety)
 - [Voltage and current](#voltage-and-current)
 - [Basic electrical components](#basic-electrical-components)
 ----------------------------
