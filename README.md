@@ -145,7 +145,7 @@ To mitigate the risks identified in my research, I have implemented a physical s
 ----------------------------
 
 ## Voltage and current
-
+### 1. Introduction & Project Scope
 ## Basic electrical components
 sss
 stest
