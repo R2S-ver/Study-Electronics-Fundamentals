@@ -58,7 +58,7 @@ Circuit breakers protect against overload and short circuits by automatically sw
 
 ### 3. Potential Risks in Household Power Usage
 
-#### A. Cable Sizing (Aderdikte)
+#### A. Cable Sizing (Cross sectional area in mm^2)
 The diameter (cross-section) of a cable determines the maximum current it can safely carry. Thicker cables = lower resistance = higher current capacity.
 *Key factors influencing cable choice:*
 1.  **Material:** Copper, Aluminum, or CCA (Copper Clad Aluminum).
