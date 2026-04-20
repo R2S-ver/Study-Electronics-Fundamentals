@@ -51,14 +51,16 @@ The power enters through the grid connection and passes through the following ma
 * **1P Breaker:** Interrupts the circuit, but the appliance remains connected to the grid via the neutral wire (N).
 * **2P / 1P+N Breaker:** Interrupts **both** conductors (Phase and Neutral). 
 * **Why is full isolation important?** With a 1P breaker, the neutral remains connected. In the event of a fault or incorrect wiring, the appliance could still carry voltage. A 2P breaker ensures complete electrical isolation and a safer shutdown.
-
+<img alt="4" src="https://github.com/R2S-ver/Study-Electronics-Fundamentals/blob/main/assets/images/4.png" width="512" height="512" /> <br>
 #### Trip Characteristics
 Circuit breakers protect against overload and short circuits by automatically switching off. The trip characteristic determines how fast the breaker reacts to a current spike (e.g., when turning on a device).
 * Common types: **B, C, D, K, Z, and MA**.
 * The difference lies in the current value at which the breaker trips magnetically, expressed as a multiple of the nominal current (In). (e.g., C-curves are better for devices with higher inrush currents).
-
+* 
+<img alt="3" src="https://github.com/R2S-ver/Study-Electronics-Fundamentals/blob/main/assets/images/3.png" width="512" height="512" /> <br>
 ### 3. Potential Risks in Household Power Usage
-
+<img alt="5" src="https://github.com/R2S-ver/Study-Electronics-Fundamentals/blob/main/assets/images/5.png" width="512" height="512" /> <br>
+<img alt="6" src="https://github.com/R2S-ver/Study-Electronics-Fundamentals/blob/main/assets/images/6.png" width="512" height="512" /> <br>
 #### A. Cable Sizing (Cross sectional area in mm^2)
 The diameter (cross-section) of a cable determines the maximum current it can safely carry. Thicker cables = lower resistance = higher current capacity.
 *Key factors influencing cable choice:*
@@ -68,7 +70,7 @@ The diameter (cross-section) of a cable determines the maximum current it can sa
 4.  **Ambient Temperature:** Heat is harder to dissipate in high temperatures.
 5.  **Cable Density:** Number of cables packed together in a conduit (heat buildup).
 6.  **Short-circuit Current:** Ability to withstand heat during a short circuit.
-
+<img alt="7" src="https://github.com/R2S-ver/Study-Electronics-Fundamentals/blob/main/assets/images/7.png" width="512" height="512" /> <br>
 #### B. Cord Defects
 A damaged cable can lead to short circuits, electric shocks, or fire.
 * Damage to the outer jacket.
@@ -91,6 +93,8 @@ Extra caution is required in damp or wet environments.
 * **Limited Heat Dissipation:** Especially dangerous when using coiled cable reels (always unroll them completely to prevent overheating).
 * **Lack of Surge Protection:** Vulnerability to voltage spikes (Overspanningsbeveiliging).
 
+### Practical reseach
+<img alt="8" src="https://github.com/R2S-ver/Study-Electronics-Fundamentals/blob/main/assets/images/8.png" width="1024" height="1024" /> <br>
 ### References
 1. https://saelektroexperts.nl/meterkast-problemen/hoe-werkt-de-aansluiting-van-een-meterkast-op-de-hoofdzekering/
 2. https://www.drixes-elektricien.nl/groepenkast/overzicht
