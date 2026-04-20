@@ -93,9 +93,9 @@ Extra caution is required in damp or wet environments.
 * **Limited Heat Dissipation:** Especially dangerous when using coiled cable reels (always unroll them completely to prevent overheating).
 * **Lack of Surge Protection:** Vulnerability to voltage spikes (Overspanningsbeveiliging).
 
-### 4. Practical reseach
+### 4. Practical research
 <img alt="8" src="https://github.com/R2S-ver/Study-Electronics-Fundamentals/blob/main/assets/images/8.png" width="1024" height="1024" /> <br>
-During this sprint, I'm doing a research into the electrical infrastructure of my workplace, focusing on safety and operational reliability. 
+During this research, I'm doing a research into the electrical infrastructure of my workplace, focusing on safety and operational reliability. 
 Based on this analysis, I made a detailed topology schema of the workspace.
 The core objective of this project is to understand electrical topology mapping and perform risk assessments. To ensure clarity—especially since many specialized tools lack standardized electrical symbols; I use icons to improve recognizability.
 #### Potential risks and Optimization Plan
