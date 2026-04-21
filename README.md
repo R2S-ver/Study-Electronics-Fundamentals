@@ -29,7 +29,7 @@ To better internalize these concepts and understand their practical applications
   
 ## Electrical safety
 </summary>
-    <details><summary>
+    <details><summary open>
       
 ### 1. Introduction & Project Scope
 </summary>
