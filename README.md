@@ -196,11 +196,9 @@ To mitigate the risks identified in my research, I have implemented a physical s
 
 <!-- 开始折叠内容 -->
 <details open><summary>
-  
+
 ## 🟪Basic electrical components
 </summary>
-
-
       <details><summary>
         
 ### 🟦Resistor
