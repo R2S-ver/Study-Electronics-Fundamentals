@@ -43,7 +43,6 @@ This section focuses on electrical safety at home, specifically in my personal w
 - Design safe, reliable, and feasible solutions for energy savings.
     </details>
     <details><summary>
-    
 ### 2. Protective Mechanisms in the Household Electrical System
 </summary>
 
