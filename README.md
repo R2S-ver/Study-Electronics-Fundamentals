@@ -190,6 +190,9 @@ To mitigate the risks identified in my research, I have implemented a physical s
     <details><summary>head 1.2</summary>
         content 1.2
     </details>
+    <details><summary>head 1.2</summary>
+        content 1.2
+    </details>
 </details>
 
 
