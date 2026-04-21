@@ -25,8 +25,11 @@ To better internalize these concepts and understand their practical applications
 ----------------------------
 
 <!-- 开始折叠内容 -->
+<details><summary>
+  
 ## Electrical safety
-<details><summary>Electrical safety</summary>
+  
+</summary>
     <details><summary>1. Intro</summary>
 ### 1. Introduction & Project Scope
 <img alt="1" src="https://github.com/R2S-ver/Study-Electronics-Fundamentals/blob/main/assets/images/1.png" width="512" height="512" /> <br>
