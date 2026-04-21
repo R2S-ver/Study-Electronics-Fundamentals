@@ -95,8 +95,7 @@ Extra caution is required in damp or wet environments.
 * **Limited Heat Dissipation:** Especially dangerous when using coiled cable reels (always unroll them completely to prevent overheating).
 * **Lack of Surge Protection:** Vulnerability to voltage spikes (Overspanningsbeveiliging).
     </details>
-
-      <details><summary>Practical research</summary>
+    <details><summary>Practical research</summary>
 ### 4. Practical research
 <img alt="8" src="https://github.com/R2S-ver/Study-Electronics-Fundamentals/blob/main/assets/images/8.png" width="1024" height="1024" /> <br>
 During this research, I'm doing a research into the electrical infrastructure of my workplace, focusing on safety and operational reliability. 
