@@ -19,7 +19,7 @@ To better internalize these concepts and understand their practical applications
 </div>
 
 # **Table of Contents**
-- [Electrical safety at home](#electrical-safety)
+- [Electrical safety at home](#electrical-safety) <br>
   1\. Introduction & Project Scope <br>
   2\. Protective Mechanisms in the Household Electrical System <br>
   3\. Potential Risks in Household Power Usage <br>
