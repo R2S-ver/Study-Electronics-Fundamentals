@@ -27,7 +27,7 @@ To better internalize these concepts and understand their practical applications
 <!-- 开始折叠内容 -->
 ## Electrical safety
 <details><summary>Electrical safety</summary>
-    <details><summary>Intro</summary>
+    <details><summary>1. Intro</summary>
 ### 1. Introduction & Project Scope
 <img alt="1" src="https://github.com/R2S-ver/Study-Electronics-Fundamentals/blob/main/assets/images/1.png" width="512" height="512" /> <br>
 This section focuses on electrical safety at home, specifically in my personal workspace (my bedroom) and the equipment used within it. <br>
@@ -37,7 +37,7 @@ This section focuses on electrical safety at home, specifically in my personal w
 - Identify the main energy-consuming devices.
 - Design safe, reliable, and feasible solutions for energy savings.
     </details>
-    <details><summary>Protective Mechanisms in the Household Electrical System</summary>
+    <details><summary>2. Protective Mechanisms in the Household Electrical System</summary>
 ### 2. Protective Mechanisms in the Household Electrical System
 In Dutch homes, the distribution board (groepenkast) is located in the meter cupboard. The structure must comply with the **NEN 1010** safety regulations. 
 The power enters through the grid connection and passes through the following main safety components:
@@ -59,7 +59,7 @@ Circuit breakers protect against overload and short circuits by automatically sw
 * The difference lies in the current value at which the breaker trips magnetically, expressed as a multiple of the nominal current (In). (e.g., C-curves are better for devices with higher inrush currents). <br>
 <img alt="3" src="https://github.com/R2S-ver/Study-Electronics-Fundamentals/blob/main/assets/images/3.png" width="512" height="512" /> <br>
     </details>
-    <details><summary>Potential Risks in Household Power Usage</summary>
+    <details><summary>3. Potential Risks in Household Power Usage</summary>
 ### 3. Potential Risks in Household Power Usage
 <img alt="5" src="https://github.com/R2S-ver/Study-Electronics-Fundamentals/blob/main/assets/images/5.png" width="512" height="512" /> <br>
 Hard VS Stranded wire(Different application scenario's)  <br>
@@ -96,7 +96,7 @@ Extra caution is required in damp or wet environments.
 * **Limited Heat Dissipation:** Especially dangerous when using coiled cable reels (always unroll them completely to prevent overheating).
 * **Lack of Surge Protection:** Vulnerability to voltage spikes (Overspanningsbeveiliging).
     </details>
-    <details><summary>Practical research</summary>
+    <details><summary>4. Practical research</summary>
 ### 4. Practical research
 <img alt="8" src="https://github.com/R2S-ver/Study-Electronics-Fundamentals/blob/main/assets/images/8.png" width="1024" height="1024" /> <br>
 During this research, I'm doing a research into the electrical infrastructure of my workplace, focusing on safety and operational reliability. 
