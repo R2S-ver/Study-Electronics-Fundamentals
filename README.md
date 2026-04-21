@@ -27,11 +27,11 @@ To better internalize these concepts and understand their practical applications
 <!-- 开始折叠内容 -->
 <details open><summary>
   
-## Electrical safety
+## 🟪Electrical safety
 </summary>
     <details><summary>
       
-### 🟩 1. Introduction & Project Scope
+### 🟦1. Introduction & Project Scope
 </summary>
 <img alt="1" src="https://github.com/R2S-ver/Study-Electronics-Fundamentals/blob/main/assets/images/1.png" width="512" height="512" /> <br>
 This section focuses on electrical safety at home, specifically in my personal workspace (my bedroom) and the equipment used within it. <br>
@@ -43,7 +43,7 @@ This section focuses on electrical safety at home, specifically in my personal w
 - Design safe, reliable, and feasible solutions for energy savings.
     </details>
     <details><summary>
-### 🟩 2. Protective Mechanisms in the Household Electrical System
+### 🟦2. Protective Mechanisms in the Household Electrical System
 </summary>
 
 In Dutch homes, the distribution board (groepenkast) is located in the meter cupboard. The structure must comply with the **NEN 1010** safety regulations. 
@@ -67,13 +67,13 @@ Circuit breakers protect against overload and short circuits by automatically sw
 <img alt="3" src="https://github.com/R2S-ver/Study-Electronics-Fundamentals/blob/main/assets/images/3.png" width="512" height="512" /> <br>
     </details>
     <details><summary>
-### 🟩 3. Potential Risks in Household Power Usage
+### 🟦3. Potential Risks in Household Power Usage
 </summary>
 
 <img alt="5" src="https://github.com/R2S-ver/Study-Electronics-Fundamentals/blob/main/assets/images/5.png" width="512" height="512" /> <br>
 Hard VS Stranded wire(Different application scenario's)  <br>
 <img alt="6" src="https://github.com/R2S-ver/Study-Electronics-Fundamentals/blob/main/assets/images/6.png" width="512" height="512" /> <br>
-#### 3.1. Cable Sizing (Cross sectional area in mm^2)
+#### 🟩3.1. Cable Sizing (Cross sectional area in mm^2)
 The diameter (cross-section) of a cable determines the maximum current it can safely carry. Thicker cables = lower resistance = higher current capacity.<br>
 *Key factors influencing cable choice:*<br>
 3.1.1.  **Material:** Copper, Aluminum, or CCA (Copper Clad Aluminum).<br>
@@ -83,21 +83,21 @@ The diameter (cross-section) of a cable determines the maximum current it can sa
 3.1.5.  **Cable Density:** Number of cables packed together in a conduit (heat buildup).<br>
 3.1.6.  **Short-circuit Current:** Ability to withstand heat during a short circuit.<br>
 <img alt="7" src="https://github.com/R2S-ver/Study-Electronics-Fundamentals/blob/main/assets/images/7.png" width="512" height="512" /> <br>
-#### 3.2. Cord Defects
+#### 🟩3.2. Cord Defects
 A damaged cable can lead to short circuits, electric shocks, or fire.
 * Damage to the outer jacket.
 * Color changes due to overheating.
 * Excessive bending or pinching.
 * Aging/brittle insulation material.
 
-#### 3.3. Operating Environment
+#### 🟩3.3. Operating Environment
 Extra caution is required in damp or wet environments.
 * Is the device properly grounded?
 * Does the IP rating meet the standard for the area?
 * Is an RCD present?
 * Location of the appliance and potential corrosion of contact points.
 
-#### 3.4. Overload, Overvoltage and Short Circuits
+#### 🟩3.4. Overload, Overvoltage and Short Circuits
 * **Simultaneous Use:** Running multiple high-wattage devices on one group (max. 10A/16A).
 * **Long-term Heavy Load:** Leads to overheating of cables.
 * **Daisy-Chaining:** Plugging power strips into other power strips (major overload risk).
@@ -106,7 +106,7 @@ Extra caution is required in damp or wet environments.
 * **Lack of Surge Protection:** Vulnerability to voltage spikes (Overspanningsbeveiliging).
     </details>
     <details><summary>
-### 🟩 4. Practical research
+### 🟦4. Practical research
 </summary>
 
 <img alt="8" src="https://github.com/R2S-ver/Study-Electronics-Fundamentals/blob/main/assets/images/8.png" width="1024" height="1024" /> <br>
@@ -115,9 +115,9 @@ Based on this analysis, I made a detailed topology schema of the workspace.
 The core objective of this project is to understand electrical topology mapping and perform risk assessments. To ensure clarity—especially since many specialized tools lack standardized electrical symbols; I use icons to improve recognizability.
 #### Potential risks and Optimization Plan
 <img alt="9" src="https://github.com/R2S-ver/Study-Electronics-Fundamentals/blob/main/assets/images/9.png" width="768" height="768" /> <br>
-**4.1. Welding Machine Grounding** The welding machine is currently ungrounded. This poses a significant safety risk and must be connected directly to the main grounding system of the distribution board (meterkast).<br>
-**4.2. Inrush Current (Current Peaks)** The inrush current of the welding machine is too high (20-30A) for the current circuit. The device needs to be moved to a different group/circuit equipped with a heavier-duty circuit breaker and adequate overload protection.<br>
-**4.3. Trip Characteristics** For the welding equipment, a circuit breaker with a C or D-curve characteristic should be used. These are specifically designed to handle high starting currents and peak loads without tripping prematurely.<br>
+**🟩4.1. Welding Machine Grounding** The welding machine is currently ungrounded. This poses a significant safety risk and must be connected directly to the main grounding system of the distribution board (meterkast).<br>
+**🟩4.2. Inrush Current (Current Peaks)** The inrush current of the welding machine is too high (20-30A) for the current circuit. The device needs to be moved to a different group/circuit equipped with a heavier-duty circuit breaker and adequate overload protection.<br>
+**🟩.3. Trip Characteristics** For the welding equipment, a circuit breaker with a C or D-curve characteristic should be used. These are specifically designed to handle high starting currents and peak loads without tripping prematurely.<br>
 <img alt="10" src="https://github.com/R2S-ver/Study-Electronics-Fundamentals/blob/main/assets/images/10.png" width="768" height="768" /> <br>
 **4.4. Eliminating Daisy-Chaining** Connecting power strips in series (daisy-chaining) increases contact resistance, leading to heat buildup and fire hazards. The setup must be converted from a "tree structure" to a star topology. Furthermore, a high-quality 16A power strip with an extra-long lead should be used instead of multiple interconnected strips.<br>
 **4.5. Voltage Dips & EMI** Heavy consumers, such as the compressor and angle grinder, cause voltage dips and Electromagnetic Interference (EMI). This disrupts sensitive electronics like PCs and monitors. The solution is to place heavy machinery on a separate circuit or physically disconnect sensitive electronics during heavy work.<br>
@@ -143,7 +143,7 @@ To mitigate the risks identified in my research, I have implemented a physical s
 #### [>Back to the Table of Contents<](#Table-of-Contents)
     </details>
     <details><summary>
-### References
+### 🟦References
 </summary>
 
 1. https://saelektroexperts.nl/meterkast-problemen/hoe-werkt-de-aansluiting-van-een-meterkast-op-de-hoofdzekering/
