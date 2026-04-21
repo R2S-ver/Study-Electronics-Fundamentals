@@ -173,15 +173,12 @@ To mitigate the risks identified in my research, I have implemented a physical s
       <details><summary>Resistor</summary>
         content 1.1
     </details>
-    
     <details><summary>Conductor/summary>
         content 1.2
     </details>
-
         <details><summary>Capacitor/summary>
         content 1.2
     </details>
-    
 </details>
 
 <!-- 结束折叠内容 -->
