@@ -35,6 +35,7 @@ To better internalize these concepts and understand their practical applications
 </summary>
 <img alt="1" src="https://github.com/R2S-ver/Study-Electronics-Fundamentals/blob/main/assets/images/1.png" width="512" height="512" /> <br>
 This section focuses on electrical safety at home, specifically in my personal workspace (my bedroom) and the equipment used within it. <br>
+
 **Goals of this study:**
 - Systematically map the power distribution structure and usage patterns.
 - Identify potential safety risks.
