@@ -55,12 +55,12 @@ The power enters through the grid connection and passes through the following ma
 * **Grounding:** Provides a safe path for fault currents.
 
 <img alt="2" src="https://github.com/R2S-ver/Study-Electronics-Fundamentals/blob/main/assets/images/2.png" width="512" height="512" /> <br>
-#### Circuit Breakers: 1P vs. 2P
+#### 🟩Circuit Breakers: 1P vs. 2P
 * **1P Breaker:** Interrupts the circuit, but the appliance remains connected to the grid via the neutral wire (N).
 * **2P / 1P+N Breaker:** Interrupts **both** conductors (Phase and Neutral). 
 * **Why is full isolation important?** With a 1P breaker, the neutral remains connected. In the event of a fault or incorrect wiring, the appliance could still carry voltage. A 2P breaker ensures complete electrical isolation and a safer shutdown.
 <img alt="4" src="https://github.com/R2S-ver/Study-Electronics-Fundamentals/blob/main/assets/images/4.png" width="512" height="512" /> <br>
-#### Trip Characteristics
+#### 🟩Trip Characteristics
 Circuit breakers protect against overload and short circuits by automatically switching off. The trip characteristic determines how fast the breaker reacts to a current spike (e.g., when turning on a device).
 * Common types: **B, C, D, K, Z, and MA**.
 * The difference lies in the current value at which the breaker trips magnetically, expressed as a multiple of the nominal current (In). (e.g., C-curves are better for devices with higher inrush currents). <br>
@@ -115,9 +115,9 @@ Based on this analysis, I made a detailed topology schema of the workspace.
 The core objective of this project is to understand electrical topology mapping and perform risk assessments. To ensure clarity—especially since many specialized tools lack standardized electrical symbols; I use icons to improve recognizability.
 #### Potential risks and Optimization Plan
 <img alt="9" src="https://github.com/R2S-ver/Study-Electronics-Fundamentals/blob/main/assets/images/9.png" width="768" height="768" /> <br>
-**🟩4.1. Welding Machine Grounding** The welding machine is currently ungrounded. This poses a significant safety risk and must be connected directly to the main grounding system of the distribution board (meterkast).<br>
-**🟩4.2. Inrush Current (Current Peaks)** The inrush current of the welding machine is too high (20-30A) for the current circuit. The device needs to be moved to a different group/circuit equipped with a heavier-duty circuit breaker and adequate overload protection.<br>
-**🟩.3. Trip Characteristics** For the welding equipment, a circuit breaker with a C or D-curve characteristic should be used. These are specifically designed to handle high starting currents and peak loads without tripping prematurely.<br>
+**4.1. Welding Machine Grounding** The welding machine is currently ungrounded. This poses a significant safety risk and must be connected directly to the main grounding system of the distribution board (meterkast).<br>
+**4.2. Inrush Current (Current Peaks)** The inrush current of the welding machine is too high (20-30A) for the current circuit. The device needs to be moved to a different group/circuit equipped with a heavier-duty circuit breaker and adequate overload protection.<br>
+**4.3. Trip Characteristics** For the welding equipment, a circuit breaker with a C or D-curve characteristic should be used. These are specifically designed to handle high starting currents and peak loads without tripping prematurely.<br>
 <img alt="10" src="https://github.com/R2S-ver/Study-Electronics-Fundamentals/blob/main/assets/images/10.png" width="768" height="768" /> <br>
 **4.4. Eliminating Daisy-Chaining** Connecting power strips in series (daisy-chaining) increases contact resistance, leading to heat buildup and fire hazards. The setup must be converted from a "tree structure" to a star topology. Furthermore, a high-quality 16A power strip with an extra-long lead should be used instead of multiple interconnected strips.<br>
 **4.5. Voltage Dips & EMI** Heavy consumers, such as the compressor and angle grinder, cause voltage dips and Electromagnetic Interference (EMI). This disrupts sensitive electronics like PCs and monitors. The solution is to place heavy machinery on a separate circuit or physically disconnect sensitive electronics during heavy work.<br>
@@ -129,14 +129,14 @@ The core objective of this project is to understand electrical topology mapping 
 **4.9. Prevention & Warning Labels** Safety signage will be applied to the workspace. This includes prohibitions on simultaneously starting multiple heavy machines (to prevent overload) and a ban on using coiled extension cords (to prevent induction-based heat buildup). <br>
 <img alt="13" src="https://github.com/R2S-ver/Study-Electronics-Fundamentals/blob/main/assets/images/13.png" width="768" height="768" /> <br>
 <img alt="14" src="https://github.com/R2S-ver/Study-Electronics-Fundamentals/blob/main/assets/images/14.png" width="512" height="512" /> <br>
-#### Conclusion
+#### 🟩Conclusion
 The result of this research is the identification of nine critical risk factors, ranging from missing grounds on heavy machinery to fire hazards caused by 'daisy-chaining'.
 This analysis has led to a concrete optimization plan to transform the workshop into a safe, professional environment. The research proves that the current installation is not equipped for the simultaneous use of industrial tools and sensitive electronics. Moving from a serial 'tree structure' to a parallel 'star topology' and separating circuits are essential steps to guarantee fire safety and operational stability.
-#### Reflection
+#### 🟩Reflection
 Analyzing the installation and formulating concrete improvements has significantly increased my awareness of electrical safety. I have become much more alert to how equipment is used in my daily environment. This research has not only provided me with technical skills but also fostered a critical, observant attitude toward potential risks within the physical infrastructure of my work place. <br>
 <img alt="16" src="https://github.com/R2S-ver/Study-Electronics-Fundamentals/blob/main/assets/images/16.png" width="768" height="768" /> <br>
 ↑New Work Zone <br>
-#### Optimization
+#### 🟩Optimization
 To mitigate the risks identified in my research, I have implemented a physical separation of equipment to minimize interference and balance the electrical load: <br>
 * **Office Zone:** All sensitive electronic devices, including my PC and monitors, are now consolidated in a dedicated office area(bedroom). This zone is isolated from heavy-duty machinery to prevent hardware damage caused by Electromagnetic Interference (EMI) and voltage dips. <br>
 * **Work Zone:** Industrial equipment and processing powertools have been moved to a separate room. By isolating the heavy power loads (such as the welding machine and air compressor) from the delicate electronics; significantly reducing the risk of circuit overloads and improved the overall stability of the infrastructure. <br>
