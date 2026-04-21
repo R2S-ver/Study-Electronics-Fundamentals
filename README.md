@@ -25,7 +25,6 @@ To better internalize these concepts and understand their practical applications
 ## Electrical safety
 <details><summary>Electrical safety</summary>
 > **⚠️ Note on Regional Standards:** The electrical safety analysis and examples documented here are based on my local usage scenario in **The Netherlands (Europe)**. Voltage standards, electrical panel structures, protective mechanisms and safety regulations (like NEN 1010) vary significantly by country. Be aware of your local regulations when working with electricity.
-
     <details><summary>Intro</summary>
 ### 1. Introduction & Project Scope
 <img alt="1" src="https://github.com/R2S-ver/Study-Electronics-Fundamentals/blob/main/assets/images/1.png" width="512" height="512" /> <br>
