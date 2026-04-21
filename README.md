@@ -31,7 +31,7 @@ To better internalize these concepts and understand their practical applications
 </summary>
     <details><summary>
       
-### 1. Introduction & Project Scope
+### 🟩 1. Introduction & Project Scope
 </summary>
 <img alt="1" src="https://github.com/R2S-ver/Study-Electronics-Fundamentals/blob/main/assets/images/1.png" width="512" height="512" /> <br>
 This section focuses on electrical safety at home, specifically in my personal workspace (my bedroom) and the equipment used within it. <br>
@@ -43,7 +43,7 @@ This section focuses on electrical safety at home, specifically in my personal w
 - Design safe, reliable, and feasible solutions for energy savings.
     </details>
     <details><summary>
-### 2. Protective Mechanisms in the Household Electrical System
+### 🟩 2. Protective Mechanisms in the Household Electrical System
 </summary>
 
 In Dutch homes, the distribution board (groepenkast) is located in the meter cupboard. The structure must comply with the **NEN 1010** safety regulations. 
@@ -67,7 +67,7 @@ Circuit breakers protect against overload and short circuits by automatically sw
 <img alt="3" src="https://github.com/R2S-ver/Study-Electronics-Fundamentals/blob/main/assets/images/3.png" width="512" height="512" /> <br>
     </details>
     <details><summary>
-### 3. Potential Risks in Household Power Usage
+### 🟩 3. Potential Risks in Household Power Usage
 </summary>
 
 <img alt="5" src="https://github.com/R2S-ver/Study-Electronics-Fundamentals/blob/main/assets/images/5.png" width="512" height="512" /> <br>
@@ -106,7 +106,7 @@ Extra caution is required in damp or wet environments.
 * **Lack of Surge Protection:** Vulnerability to voltage spikes (Overspanningsbeveiliging).
     </details>
     <details><summary>
-### 4. Practical research
+### 🟩 4. Practical research
 </summary>
 
 <img alt="8" src="https://github.com/R2S-ver/Study-Electronics-Fundamentals/blob/main/assets/images/8.png" width="1024" height="1024" /> <br>
