@@ -167,34 +167,22 @@ To mitigate the risks identified in my research, I have implemented a physical s
 
 ----------------------------
 
-<!-- 开始折叠内容 -->
 ## Basic electrical components
-<details><summary>Click here to expand</summary>
+
+<!-- 开始折叠内容 -->
+<details><summary>head 1</summary>
       <details><summary>Resistor</summary>
         content 1.1
     </details>
-    <details><summary>Conductor/summary>
+    <details><summary>Conductor</summary>
         content 1.2
     </details>
-        <details><summary>Capacitor/summary>
+    <details><summary>Capacitor</summary>
         content 1.2
     </details>
 </details>
 
 <!-- 结束折叠内容 -->
-
-<details><summary>head 1</summary>
-      <details><summary>head 1.1</summary>
-        content 1.1
-    </details>
-    <details><summary>head 1.2</summary>
-        content 1.2
-    </details>
-    <details><summary>head 1.2</summary>
-        content 1.2
-    </details>
-</details>
-
 
 
 
