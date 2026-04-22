@@ -33,13 +33,13 @@ To better internalize these concepts and understand their practical applications
      &nbsp;&nbsp; 1.2\. Voltage Comparator <br>
   2\. Conductor <br>
   3\. Capacitor <br>
-    3.1\. Low-pass and High-pass Filter <br>
+     &nbsp;&nbsp; 3.1\. Low-pass and High-pass Filter <br>
   4\. Diode <br>
-    4.1\. Rectifier Bridge <br>
+     &nbsp;&nbsp; 4.1\. Rectifier Bridge <br>
   5\. Transistor <br>
   6\. Mosfet <br>
   7\. Linear and Switching Power Supply <br>
-    7.1\. SMPS analysis <br>
+     &nbsp;&nbsp; 7.1\. SMPS analysis <br>
   8\. References <br>
 ----------------------------
 
