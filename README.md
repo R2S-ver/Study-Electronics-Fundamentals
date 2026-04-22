@@ -38,7 +38,7 @@ To better internalize these concepts and understand their practical applications
      &nbsp;&nbsp; 4.1\. Rectifier Bridge <br>
   5\. [Transistor](#Transistor) <br>
   6\. [Mosfet](#Mosfet) <br>
-  7\. [Linear and Switching Power Supply](#Linear and Switching Power Supply) <br>
+  7\. [Linear and Switching Power Supply](#Linear-and-Switching-Power-Supply) <br>
      &nbsp;&nbsp; 7.1\. SMPS analysis <br>
   8\. References <br>
 ----------------------------
