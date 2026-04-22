@@ -161,7 +161,7 @@ To mitigate the risks identified in my research, I have implemented a physical s
 * **Work Zone:** Industrial equipment and processing powertools have been moved to a separate room. By isolating the heavy power loads (such as the welding machine and air compressor) from the delicate electronics; significantly reducing the risk of circuit overloads and improved the overall stability of the infrastructure. <br>
 #### [>Back to the Table of Contents<](#Table-of-Contents)
     </details>
-    <details><summary>
+<details><summary>
 ### 🟦References
 </summary>
 
