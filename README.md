@@ -160,7 +160,7 @@ To mitigate the risks identified in my research, I have implemented a physical s
 ### 🟦References
 </summary>
 
-1. [](https://saelektroexperts.nl/meterkast-problemen/hoe-werkt-de-aansluiting-van-een-meterkast-op-de-hoofdzekering/)
+1. [How does the connection of a meter box to the main fuse work?](https://saelektroexperts.nl/en/meterkast-problemen/hoe-werkt-de-aansluiting-van-een-meterkast-op-de-hoofdzekering/)
 2. https://www.drixes-elektricien.nl/groepenkast/overzicht
 3. https://texasgateway.org/resource/68-electrical-safety-systems-and-devices
 4. https://www.mall99.co.ke/types-of-electrical-wires-and-cables/
@@ -270,7 +270,7 @@ stest
 14. [Isolated vs Non-Isolated Power Supplies: The Right Choice Without Fail](https://resources.altium.com/p/isolated-vs-non-isolated-power-supplies-right-choice-without-fail)
 15. [Gallium Nitride Power Devices in Power Electronics Applications: State of Art and Perspectives](https://www.mdpi.com/1996-1073/16/9/3894)
 16. [Using a high-frequency switching regulator without a linear regulator to power a data-converter system](https://www.ti.com/lit/an/slyt756/slyt756.pdf?ts=1774571562348)
-17. []()
-18. []()
-19. []()
-20. []()
+17. [How mobile phone charger works ? | SMPS Switch mode power supply](https://www.youtube.com/watch?v=F2dCS5qOE8A)
+18. [Modular AC line EMI filters explained](https://passive-components.eu/modular-ac-line-emi-filters-explained/)
+19. [Bridge Rectifier With Capacitor Filter: Circuit Diagram and Explain Step by Step](https://www.voltagelab.com/bridge-rectifier-with-capacitor-filter/)
+
