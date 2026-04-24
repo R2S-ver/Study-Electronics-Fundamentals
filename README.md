@@ -217,9 +217,9 @@ To mitigate the risks identified in my research, I have implemented a physical s
 #### What is a resistor?
 A resistor is a passive electronic component designed to create resistance in the flow of electric current. In a circuit, it acts like a "bump" for electrons. Its primary jobs are to limit the amount of current going through(to keep components like LEDs from burning out) and to divide voltage (as seen in your comparator circuit).
 
-<img alt="19" src="https://github.com/R2S-ver/Study-Electronics-Fundamentals/blob/main/assets/images/19.png" width="768" height="768" /> <br>
+<img alt="19" src="https://github.com/R2S-ver/Study-Electronics-Fundamentals/blob/main/assets/images/19.png" width="1024" height="1024" /> <br>
 
-<img alt="20" src="https://github.com/R2S-ver/Study-Electronics-Fundamentals/blob/main/assets/images/20.png" width="768" height="768" /> <br>
+<img alt="20" src="https://github.com/R2S-ver/Study-Electronics-Fundamentals/blob/main/assets/images/20.png" width="1024" height="1024" /> <br>
 <img alt="18" src="https://github.com/R2S-ver/Study-Electronics-Fundamentals/blob/main/assets/images/18.jpg" width="768" height="768" /> <br>
 
 While there are many types, the most common one you’ll encounter in hobbyist electronics (like those used in Tinkercad) is the Carbon Film Resistor. <br>
