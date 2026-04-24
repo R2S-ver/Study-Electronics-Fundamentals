@@ -250,11 +250,11 @@ R = 2V / 0.0135A = 148.15 ohms (**150 ohm resistor**)
 An LED(Light-emitting diode) cannot be treated as a fixed ohmic resistor because it is a non-linear component. While a standard resistor follows Ohm's law (where current is directly proportional to voltage), an LED is a diode with a non-linear current-voltage curve.
     </details>
     <details><summary>
-### 🟦Conductor
+### 🟦Capacitor
 </summary>
         content 1.2
     </details>
-    <details><summary>
+     <details><summary>
       
 ### 🟦Capacitor
 </summary>
