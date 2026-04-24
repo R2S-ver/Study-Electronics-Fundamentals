@@ -260,37 +260,32 @@ An LED(Light-emitting diode) cannot be treated as a fixed ohmic resistor because
 ### 🟦Capacitor
 </summary>
         content 1.2
-    </details>
+</details>
      <details><summary>
         
 ### 🟦Diode
 </summary>
         content 1.1
-    </details>
+</details>
      <details><summary>
         
 ### 🟦Transistor
 </summary>
         content 1.1
-    </details>
+</details>
      <details><summary>
         
 ### 🟦Mosfet
 </summary>
         content 1.1
-    </details>
+</details>
      <details><summary>
         
 ### 🟦Linear and Switching Power Supply
 </summary>
         content 1.1
-    </details>
-
-
-
-
-
-<details><summary>
+</details>
+    <details><summary>
   
 ### 🟦Refs Components
 </summary>
