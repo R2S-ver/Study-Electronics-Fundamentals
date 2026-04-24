@@ -211,7 +211,43 @@ To mitigate the risks identified in my research, I have implemented a physical s
         
 ### 🟦Resistor
 </summary>
-        content 1.1
+
+<img alt="18" src="https://github.com/R2S-ver/Study-Electronics-Fundamentals/blob/main/assets/images/18.jpg" width="768" height="768" /> <br>
+
+#### What is a resistor?
+A resistor is a passive electronic component designed to create resistance in the flow of electric current. In a circuit, it acts like a "bump" for electrons. Its primary jobs are to limit the amount of current going through(to keep components like LEDs from burning out) and to divide voltage (as seen in your comparator circuit).
+##### Types
+<img alt="19" src="https://github.com/R2S-ver/Study-Electronics-Fundamentals/blob/main/assets/images/19.png" width="768" height="768" /> <br>
+
+##### Function
+<img alt="20" src="https://github.com/R2S-ver/Study-Electronics-Fundamentals/blob/main/assets/images/20.png" width="768" height="768" /> <br>
+
+While there are many types, the most common one you’ll encounter in hobbyist electronics (like those used in Tinkercad) is the Carbon Film Resistor.
+**1. The Ceramic Core**
+  At the center is a solid rod made of high-grade ceramic (an insulator). This acts as the structural base and does not conduct electricity.
+**2. The Carbon Film Layer**
+  A thin layer of pure carbon is deposited around the ceramic rod. This film is the resistive material that electrons must travel through.
+**3. The Helical Groove**
+    Shorter, wider spiral path = Lower resistance
+    Longer, thinner spiral path = Higher resistance
+This effectively turns the film into a long, coiled "wire" of carbon.
+**4. End Caps and Leads**
+Metal end caps are pressed onto both sides of the rod. Tinned copper "leads" (the legs you plug into a breadboard) are welded to these caps to connect the resistor to the rest of the circuit.
+<img alt="21" src="https://github.com/R2S-ver/Study-Electronics-Fundamentals/blob/main/assets/images/21.png" width="768" height="768" /> <br>
+**5. Protective Coating & Color Bands**
+Finally, the entire body is coated in an insulating lacquer or epoxy to protect it from moisture and heat. The colored stripes are painted on to indicate the resistance value and tolerance.
+<img alt="17" src="https://github.com/R2S-ver/Study-Electronics-Fundamentals/blob/main/assets/images/17.png" width="768" height="768" /> <br>
+
+#### Theory: Voltage Division Principle
+In a series circuit with multiple resistors, the voltage drop is proportional to the resistance. If the resistance increases, the voltage across it increases as well (R↑ = V↑).
+##### Calculating the Series Resistor (Voltage Drop)
+Scenario: An LED operates at 3V and draws 13.5mA (0.0135A) of current with a 5V power source
+V_drop = V_source - V_LED = 2V
+R = V_drop / I
+R = 2V / 0.0135A = 148.15 ohms (**150 ohm resistor**)
+
+##### LED Resistance Characteristics
+An LED cannot be treated as a fixed ohmic resistor because it is a non-linear component. While a standard resistor follows Ohm's law (where current is directly proportional to voltage), an LED is a diode with a non-linear current-voltage curve.
     </details>
     <details><summary>
       
@@ -278,6 +314,8 @@ To mitigate the risks identified in my research, I have implemented a physical s
 17. [How mobile phone charger works ? | SMPS Switch mode power supply](https://www.youtube.com/watch?v=F2dCS5qOE8A)
 18. [Modular AC line EMI filters explained](https://passive-components.eu/modular-ac-line-emi-filters-explained/)
 19. [Bridge Rectifier With Capacitor Filter: Circuit Diagram and Explain Step by Step](https://www.voltagelab.com/bridge-rectifier-with-capacitor-filter/)
+20. [Understanding of Carbon Film Resistors](https://www.utmel.com/blog/categories/resistor/understanding-of-carbon-film-resistors)
+21. [Resistor Color Codes: What Do the Color Bands Mean?](https://www.te.com/en/products/passive-components/resistors/intersection/resistor-color-codes.html)
   </details>
   
   #### [>Back to the Table of Contents<](#Table-of-Contents)
